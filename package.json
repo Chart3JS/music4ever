@@ -1,10 +1,10 @@
 {
-  "name": "Este",
+  "name": "music-4ever",
   "authors": [
     "Daniel Steigerwald",
     "Mike Grabowski"
   ],
-  "description": "I-love-sing.com app",
+  "description": "music-4ever.com app",
   "private": true,
   "scripts": {
     "postinstall": "gulp build --production",
@@ -12,7 +12,7 @@
     "test": "gulp test"
   },
   "engines": {
-    "node": "4.2.x"
+    "node": "5.4.x"
   },
   "dependencies": {
     "autoprefixer": "^6.1.0",
